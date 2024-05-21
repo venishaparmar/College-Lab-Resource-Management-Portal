@@ -39,7 +39,7 @@ The College Lab Resource Management System is a comprehensive platform developed
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/collegelab-resource-management.git`
+1. Clone the repository: `[git clone https://github.com/yourusername/collegelab-resource-management.git](https://github.com/venishaparmar/College-Lab-Resource-Management-Portal.git)`
 2. Install dependencies: `npm install`
 3. Start the frontend: `npm start`
 4. Start the backend: `npm run server`
